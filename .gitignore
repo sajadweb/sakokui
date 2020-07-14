@@ -1,10 +1,7 @@
-# Don't check auto-generated stuff into git
-coverage
-build
-node_modules
-stats.json
-
-# Cruft
-.DS_Store
+docs/build/
+dist-es6/
+dist-modules/
+node_modules/
+coverage/
 npm-debug.log
-.idea
+.eslintcache
